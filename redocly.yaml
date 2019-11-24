@@ -1,0 +1,8 @@
+
+apiTitle: wes
+splitSpec: false
+codeSamples: true
+swaggerUI: false
+travis: true
+repo: ga4gh/cloud-schema-builds
+oasVersion: 3.0.0
